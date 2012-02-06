@@ -1,5 +1,8 @@
 This project is a Splunk add-on[1] providing extractions and such for Mailman
 logs.
 
+It is currently in-development and incomplete.
+
+Wil Cooley <wcooley@pdx.edu>
 
 1. http://docs.splunk.com/Documentation/Splunk/latest/Developer/AppIntro#What_is_an_add-on.3F
